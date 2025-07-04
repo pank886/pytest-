@@ -1,0 +1,22 @@
+插件管理:
+通过 -p 参数管理
+启用插件abc -p abc
+禁用插件abc -p no:abc
+
+插件使用方式:
+参数
+配置文件 在配置文件中配置全局生效的插件
+fixture
+mark
+
+分布式执行插件：
+pytest-xdist
+通过 -n 需要的进程数
+缺点：乱序、资源竞争/强依赖
+
+失败重试插件：
+pytest-rerunfailures
+用例失败重试5次，等待间隔1秒 --reruns 5 --reruns-delay 1(秒)
+
+pytest-result-log
+是一个在日志文件中记录每个用例的开始、结束和结果信息的pytest插件

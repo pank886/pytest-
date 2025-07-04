@@ -1,0 +1,18 @@
+INFO     2025-07-03 18:11:51 [pytest_result_log:122]  : -----------------Start: tests/test_1.py::TestAdd::test_addition-----------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:190]  : test status is PASSED (tests/test_1.py::TestAdd::test_addition): 
+INFO     2025-07-03 18:11:51 [pytest_result_log:128]  : ------------------End: tests/test_1.py::TestAdd::test_addition------------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:122]  : -----------------Start: tests/test_1.py::TestAdd::test_failure------------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:190]  : test status is PASSED (tests/test_1.py::TestAdd::test_failure): 
+INFO     2025-07-03 18:11:51 [pytest_result_log:128]  : ------------------End: tests/test_1.py::TestAdd::test_failure-------------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:122]  : --------------------Start: tests/test_1.py::TestAdd::test_id--------------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:190]  : test status is PASSED (tests/test_1.py::TestAdd::test_id): 
+INFO     2025-07-03 18:11:51 [pytest_result_log:128]  : ---------------------End: tests/test_1.py::TestAdd::test_id---------------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:122]  : ------------------Start: tests/test_2.py::TestIdea::test_idea-------------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:190]  : test status is PASSED (tests/test_2.py::TestIdea::test_idea): 
+INFO     2025-07-03 18:11:51 [pytest_result_log:128]  : -------------------End: tests/test_2.py::TestIdea::test_idea--------------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:122]  : --------------Start: tests/test_allure.py::TestAllure::test_weter---------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:190]  : test status is PASSED (tests/test_allure.py::TestAllure::test_weter): 
+INFO     2025-07-03 18:11:51 [pytest_result_log:128]  : ---------------End: tests/test_allure.py::TestAllure::test_weter----------------
+INFO     2025-07-03 18:11:51 [pytest_result_log:122]  : --------Start: tests/test_allure.py::TestAllure::test_uploadElectricity---------
+INFO     2025-07-03 18:11:51 [pytest_result_log:190]  : test status is PASSED (tests/test_allure.py::TestAllure::test_uploadElectricity): 
+INFO     2025-07-03 18:11:51 [pytest_result_log:128]  : ---------End: tests/test_allure.py::TestAllure::test_uploadElectricity----------
