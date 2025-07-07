@@ -1,2 +1,0 @@
-INFO     pytest_result_log:plugin.py:122 -----------------Start: tests/test_1.py::TestAdd::test_addition-----------------
-INFO     pytest_result_log:plugin.py:128 ------------------End: tests/test_1.py::TestAdd::test_addition------------------

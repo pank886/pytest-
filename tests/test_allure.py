@@ -1,5 +1,7 @@
 from my_package.common_imports import *
 
+
+@pytest.mark.allure
 class TestAllure():
     @allure.epic('园区基线')
     @allure.feature('智慧用水')

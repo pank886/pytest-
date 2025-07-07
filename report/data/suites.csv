@@ -1,7 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","0","test_id","tests","Thu Jul 03 18:11:51 CST 2025","passed","Thu Jul 03 18:11:51 CST 2025","TestAdd","test_1","",""
-"","0","电量上报","tests","Thu Jul 03 18:11:51 CST 2025","passed","Thu Jul 03 18:11:51 CST 2025","TestAllure","test_allure","",""
-"","0","水量上报","tests","Thu Jul 03 18:11:51 CST 2025","passed","Thu Jul 03 18:11:51 CST 2025","TestAllure","test_allure","",""
-"","0","test_failure","tests","Thu Jul 03 18:11:51 CST 2025","passed","Thu Jul 03 18:11:51 CST 2025","TestAdd","test_1","",""
-"","0","test_addition","tests","Thu Jul 03 18:11:51 CST 2025","passed","Thu Jul 03 18:11:51 CST 2025","TestAdd","test_1","",""
-"","0","test_idea","tests","Thu Jul 03 18:11:51 CST 2025","passed","Thu Jul 03 18:11:51 CST 2025","TestIdea","test_2","",""
+"","3496","test_web","tests","Mon Jul 07 15:47:53 CST 2025","passed","Mon Jul 07 15:47:57 CST 2025","","test_selenium","",""

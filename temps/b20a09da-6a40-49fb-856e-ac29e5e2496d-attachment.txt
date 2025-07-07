@@ -1,2 +1,0 @@
-INFO     pytest_result_log:plugin.py:122 ------------------Start: tests/test_2.py::TestIdea::test_idea-------------------
-INFO     pytest_result_log:plugin.py:128 -------------------End: tests/test_2.py::TestIdea::test_idea--------------------
