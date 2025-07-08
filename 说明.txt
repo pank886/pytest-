@@ -20,3 +20,9 @@ pytest-rerunfailures
 
 pytest-result-log
 是一个在日志文件中记录每个用例的开始、结束和结果信息的pytest插件
+
+建立测试发现
+1.test_开头文件
+2.Test开头的类
+3.test_开头的函数或方法
+#类里面是方法，需要强制传递参数、函数可以不需要传递参数
