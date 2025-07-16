@@ -1,5 +1,8 @@
 import pytest
+import os
 from my_package.common_imports import *
+from selenium import webdriver
+from selenium.webdriver.common.by import by
 
 
 @pytest.fixture
@@ -22,3 +25,10 @@ def f():
     print(datetime.datetime.now(), "用例开始执行\n")
     yield 3306
     print(datetime.datetime.now(), "用例执行结束\n")
+
+@pytest.fixture(scope='module')
+def browser():
+    deiver = webdriver.Chrome()
+    requests.node.driver = deiver
+    yield deiver
+    deiver.quit()
