@@ -1,0 +1,4 @@
+INFO     2025-07-16 18:32:00 [pytest_result_log:122]  : --------------------Start: tests/test_selenium.py::test_web---------------------
+WARNING  2025-07-16 18:32:01 [selenium.webdriver.common.selenium_manager:137]  : There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+ERROR    2025-07-16 18:32:07 [pytest_result_log:190]  : test status is FAILED (tests/test_selenium.py::test_web): AttributeError
+INFO     2025-07-16 18:32:07 [pytest_result_log:128]  : ---------------------End: tests/test_selenium.py::test_web----------------------
