@@ -1,5 +1,5 @@
-#import os
-#import pytest
+import os
+import pytest
 from my_package.common_imports import *
 
 pytest.main()

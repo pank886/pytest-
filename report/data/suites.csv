@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","4443","test_web","tests","Wed Jul 16 18:32:02 CST 2025","broken","Wed Jul 16 18:32:07 CST 2025","","test_selenium","",""
+"","33725","test_web","tests","Fri Jul 25 18:44:01 CST 2025","passed","Fri Jul 25 18:44:35 CST 2025","","test_selenium","",""
