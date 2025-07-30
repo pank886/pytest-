@@ -1,0 +1,2 @@
+INFO     pytest_result_log:plugin.py:122 --------------Start: tests/test_selenium.py::test_yemiantiaozhuan---------------
+INFO     pytest_result_log:plugin.py:128 ---------------End: tests/test_selenium.py::test_yemiantiaozhuan----------------

@@ -1,0 +1,7 @@
+INFO     2025-07-30 17:03:53 [pytest_result_log:122]  : --------------------Start: tests/test_selenium.py::test_web---------------------
+WARNING  2025-07-30 17:03:53 [selenium.webdriver.common.selenium_manager:137]  : There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+INFO     2025-07-30 17:04:26 [pytest_result_log:190]  : test status is PASSED (tests/test_selenium.py::test_web): 
+INFO     2025-07-30 17:04:26 [pytest_result_log:128]  : ---------------------End: tests/test_selenium.py::test_web----------------------
+INFO     2025-07-30 17:04:26 [pytest_result_log:122]  : --------------Start: tests/test_selenium.py::test_yemiantiaozhuan---------------
+INFO     2025-07-30 17:04:27 [pytest_result_log:190]  : test status is PASSED (tests/test_selenium.py::test_yemiantiaozhuan): 
+INFO     2025-07-30 17:04:27 [pytest_result_log:128]  : ---------------End: tests/test_selenium.py::test_yemiantiaozhuan----------------

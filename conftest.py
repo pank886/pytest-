@@ -33,3 +33,9 @@ def browser(request):
     request.node.driver = deiver
     yield deiver
     deiver.quit()
+
+@pytest.fixture(scope='session')
+def driver():
+    driver = webdriver.Chrome()
+    yield driver
+    driver.close()
