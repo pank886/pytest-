@@ -20,5 +20,5 @@ def test_getRegionList(driver):
     login_ziyuanz = login_page.wait_for_clickable((By.XPATH, '//*[@id="app"]/div/div[1]/nav/div[3]'))
 
     login_ziyuanz.click()
-
-    assert login_page.wait_for_element((By.XPATH, '//*[@id="bottomElement"]/div[1]/div[2]/span[2]/span[1]/span')), "进入资源中心失败"
+    #assert login_page.wait_for_element((By.XPATH, '//*[@id="bottomElement"]/div[1]/div[2]/span[2]/span[1]/span')), "进入资源中心失败"
+    assert login_page.wait_for_element((By.XPATH, '//*[@id="123124t"]')), "进入资源中心失败"

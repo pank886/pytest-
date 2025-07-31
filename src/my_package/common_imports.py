@@ -1,5 +1,3 @@
-# common_imports.py
-
 import pytest
 import datetime
 import json
